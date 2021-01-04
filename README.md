@@ -1,3 +1,7 @@
+# Facein
+Door lock system that use facial recognition and qr code.
+
+
 # facein-server
 Simple PHP Server to download to QR Code after registration.
 It will be host by the RPI Machine
